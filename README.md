@@ -81,7 +81,7 @@ The dataset contains transactional sales data with 18 columns, including:
 ---
 
 ## 📸 Dashboard Preview
-_Add screenshots here_
+![Dashboard Preview](bike1.jpg)
 
 ---
 
