@@ -15,6 +15,7 @@ This project presents an interactive **Sales Performance Dashboard** built using
 
 ## 🗂️ Dataset
 The dataset contains transactional sales data with 18 columns, including:
+Source: https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe/data
 
 - Date (Day, Month, Year)  
 - Customer demographics (Age, Gender, Age Group)  
